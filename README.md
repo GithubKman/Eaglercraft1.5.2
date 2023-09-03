@@ -1,4 +1,9 @@
-# Eaglercraft1.5.2
-The unofficial Eaglercraft1.5.2 download
+# Eaglercraft 1.5.2
+CONGRATULATIONS! You pressed the "Fork on Github" button!
+Look in Releases to download file easilly.
 
-  This file has been edited slightly to remove unnecessary texts on the home screen. 
+  FASTER LOADING TIME!!!
+  Removed Readme.txt, box is still there but it is just empty
+
+
+  DISCLAIMER: THIS IS THE UNOFFICIAL DOWNLOAD!
